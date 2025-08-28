@@ -34,3 +34,12 @@ lo que permitirá a los profesores y estudiantes medir el progreso de manera efe
 El juego se desarrollará usando [Unity] y tendrá soporte para [PC, tablets y dispositivos móviles].
 Además, se implementarán características como [guardado automático, logros, modo multijugador cooperativo
 y panel de control para profesores] para garantizar una experiencia de juego fluida y atractiva.
+
+## Mecánicas de Juego
+
+- **Exploración:** El jugador recorre escenarios en 2D con desplazamiento lateral.
+- **Recolección:** Se deben recolectar elementos clave (hojas, agua, energía solar) para completar misiones educativas.
+- **Preguntas y Retos:** Al interactuar con objetos, se activan preguntas tipo quiz relacionadas con biología.
+- **Misiones:** Resolver tareas educativas como identificar cadenas alimenticias o armar el ciclo del agua.
+- **Puntos de Aprendizaje:** Cada acierto suma puntos que desbloquean nuevos niveles y recompensas.
+
