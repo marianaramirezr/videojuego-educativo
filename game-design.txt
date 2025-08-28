@@ -34,3 +34,21 @@ lo que permitirá a los profesores y estudiantes medir el progreso de manera efe
 El juego se desarrollará usando [Unity] y tendrá soporte para [PC, tablets y dispositivos móviles].
 Además, se implementarán características como [guardado automático, logros, modo multijugador cooperativo
 y panel de control para profesores] para garantizar una experiencia de juego fluida y atractiva.
+
+## Niveles y Conceptos Educativos
+
+1. **Bosque Encantado**  
+   - Tema: Fotosíntesis y ciclo del oxígeno.  
+   - Reto: Ayudar a los árboles a producir oxígeno resolviendo preguntas de biología.  
+
+2. **Océano Profundo**  
+   - Tema: Ecosistemas marinos y cadenas alimenticias.  
+   - Reto: Identificar qué especies forman parte de la cadena trófica.  
+
+3. **Selva Tropical**  
+   - Tema: Biodiversidad y especies en peligro.  
+   - Reto: Rescatar animales resolviendo acertijos sobre hábitats.  
+
+4. **Montañas Sagradas**  
+   - Tema: Adaptaciones de animales y plantas al clima.  
+   - Reto: Completar un puzzle para entender cómo sobreviven las especies en condiciones extremas. 
