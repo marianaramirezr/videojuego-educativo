@@ -34,3 +34,11 @@ lo que permitirá a los profesores y estudiantes medir el progreso de manera efe
 El juego se desarrollará usando [Unity] y tendrá soporte para [PC, tablets y dispositivos móviles].
 Además, se implementarán características como [guardado automático, logros, modo multijugador cooperativo
 y panel de control para profesores] para garantizar una experiencia de juego fluida y atractiva.
+
+## Personajes
+
+- **Explorador/a (Jugador):** Joven curioso y valiente, encargado de descubrir y proteger la biodiversidad.
+- **BioBot (Guía):** Inteligencia artificial que explica conceptos de biología de manera sencilla y divertida.
+- **Profesor Eco:** Mentor del jugador, experto en biología, entrega misiones y valida el progreso.
+- **Guardianes de la Naturaleza:** Personajes secundarios que representan cada ecosistema (ej: Guardiana del Bosque, Guardián del Océano).
+- **Amenaza BioX:** Villano que busca alterar los ecosistemas para beneficio propio, representando la contaminación y destrucción ambiental.
