@@ -34,3 +34,12 @@ lo que permitirá a los profesores y estudiantes medir el progreso de manera efe
 El juego se desarrollará usando [Unity] y tendrá soporte para [PC, tablets y dispositivos móviles].
 Además, se implementarán características como [guardado automático, logros, modo multijugador cooperativo
 y panel de control para profesores] para garantizar una experiencia de juego fluida y atractiva.
+
+## Historia y Guion
+
+El videojuego inicia en un futuro cercano donde la biodiversidad del planeta está en riesgo.  
+El jugador asume el rol de un joven explorador que, junto a una inteligencia artificial llamada **BioBot**, viaja por distintos ecosistemas (bosque, océano, selva, montaña) para recuperar el equilibrio natural.  
+
+Cada misión está ligada a un concepto de biología, como el ciclo de la fotosíntesis, las cadenas alimenticias o la conservación de especies.  
+
+El guion se desarrolla en forma de capítulos cortos y dinámicos, con diálogos sencillos y misiones educativas que impulsan al jugador a aprender mientras avanza en la historia.
