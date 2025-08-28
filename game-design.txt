@@ -34,3 +34,16 @@ lo que permitirá a los profesores y estudiantes medir el progreso de manera efe
 El juego se desarrollará usando [Unity] y tendrá soporte para [PC, tablets y dispositivos móviles].
 Además, se implementarán características como [guardado automático, logros, modo multijugador cooperativo
 y panel de control para profesores] para garantizar una experiencia de juego fluida y atractiva.
+
+## Panel de Control para Profesores
+
+- **Acceso docente:** Los profesores pueden iniciar sesión para revisar el avance de los estudiantes.  
+- **Reportes:** Cada nivel genera un informe con:  
+  - Porcentaje de aciertos en preguntas.  
+  - Tiempo promedio de resolución.  
+  - Conceptos más fallados.  
+
+- **Herramientas:**  
+  - Crear misiones personalizadas con preguntas de biología.  
+  - Descargar reportes en PDF para seguimiento académico.  
+  - Ver el progreso de cada estudiante en tiempo real.  
