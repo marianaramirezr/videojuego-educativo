@@ -1,1 +1,36 @@
 "Plantilla de Game Design" 
+
+[Exploradores de la Vida] es un videojuego educativo diseñado para enseñar Biología
+a estudiantes de primaria a través de una experiencia inmersiva y emocionante.
+
+La historia se desarrolla en [Bioaventura], un mundo natural lleno de bosques, ríos,
+selvas y laboratorios secretos. Es un lugar donde los jugadores descubrirán los misterios
+de los seres vivos, enfrentarán desafíos y serán guiados por personajes fascinantes
+en su camino de aprendizaje. Cada nivel del juego combina diversión y educación,
+permitiendo que los estudiantes adquieran conocimientos de manera natural mientras
+exploran, resuelven problemas y superan obstáculos.
+
+El protagonista de esta aventura es [Alex], un niño curioso y valiente de 10 años que
+adora la naturaleza. Alex es un [explorador aprendiz] que ha sido elegido para una misión
+única: [proteger la biodiversidad del planeta]. Con su [lupa mágica], Alex podrá observar,
+analizar y aprender de las especies vivas mientras enseña a los jugadores conceptos clave
+de Biología.
+
+El jugador podrá [explorar ecosistemas virtuales] (selva, océano, desierto, bosque), para avanzar
+deberá [resolver minijuegos y experimentos interactivos] y los desafíos incluirán
+[clasificar especies, identificar funciones del cuerpo humano, resolver cadenas alimenticias
+y cuidar hábitats en peligro].
+
+Los estudiantes avanzarán mediante [un sistema de niveles y recompensas].
+Cada nivel representa un [concepto biológico] (células, plantas, animales, ecosistemas, cuerpo humano).
+Los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá
+identificar áreas de mejora y celebrar sus logros.
+
+Los jugadores aprenderán [las partes de una planta] mediante [un rompecabezas interactivo].
+Se reforzará [el ciclo de vida de los animales] a través de [minijuegos de clasificación],
+y las evaluaciones se realizarán mediante [retos cronometrados y experimentos virtuales],
+lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
+
+El juego se desarrollará usando [Unity] y tendrá soporte para [PC, tablets y dispositivos móviles].
+Además, se implementarán características como [guardado automático, logros, modo multijugador cooperativo
+y panel de control para profesores] para garantizar una experiencia de juego fluida y atractiva.
